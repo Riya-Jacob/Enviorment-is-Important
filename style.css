@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+
+body{
+    font-family: 'Bad Script', cursive;
+    background-color: skyblue;
+}
+
+div{
+    border: 3px solid darkgreen;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+    display: inline-block;
+    background-color: white;
+}
+
+img{
+    height: 70%;
+}
+
+#heading{
+    color: darkblue;
+    text-align: center;
+    font-weight: bold;
+}
+
+div:hover{
+    background-color: lightgreen;
+}
+
+h2{
+    color: darkgreen;
+}
+
